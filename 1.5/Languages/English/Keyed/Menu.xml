@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <BBLK_DeathShitSettings>Human Death Shit</BBLK_DeathShitSettings>
+  
+  <BBLK_deathShitSND_Label>Shit Sound?</BBLK_deathShitSND_Label>
+  <BBLK_deathShitSND_ToolTip>Plays a sound when a pawn dies and shits themselves.</BBLK_deathShitSND_ToolTip>
+
+  <BBLK_deathShitSpray_Label>Shit Spray?</BBLK_deathShitSpray_Label>
+  <BBLK_deathShitSpray_ToolTip>Throws shit when a pawn dies and shits themselves. Purely visual, no gameplay effects</BBLK_deathShitSpray_ToolTip>
+
+</LanguageData>

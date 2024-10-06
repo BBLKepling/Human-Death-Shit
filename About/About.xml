@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Human Death Shit</name>
+  <author>bblkepling</author>
+  <supportedVersions>
+    <li>1.5</li>
+  </supportedVersions>
+  <packageId>bblkepling.humandeathshit</packageId>
+  <description>Humans shit themselves when they die.</description>
+  <modDependencies>
+    <li>
+      <packageId>Dubwise.DubsBadHygiene</packageId>
+      <displayName>Dubs Bad Hygiene</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/836308268</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>Dubwise.DubsBadHygiene</li>
+  </loadAfter>
+</ModMetaData>
