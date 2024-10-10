@@ -6,3 +6,7 @@ C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human Death Shit\1.5
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human Death Shit\1.5\Source\HumanDeathShit\obj\Debug\HumanDeathShit.csproj.AssemblyReference.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human Death Shit\1.5\Source\HumanDeathShit\obj\Debug\HumanDeathShit.csproj.CoreCompileInputs.cache
 C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human Death Shit\1.5\Source\HumanDeathShit\obj\Debug\HumanDeathShit.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.5\Assemblies\HumanDeathShit.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.5\Source\HumanDeathShit\obj\Debug\HumanDeathShit.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.5\Source\HumanDeathShit\obj\Debug\HumanDeathShit.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.5\Source\HumanDeathShit\obj\Debug\HumanDeathShit.dll

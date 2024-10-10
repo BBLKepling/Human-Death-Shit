@@ -1,0 +1,6 @@
+<loadFolders>
+    <v1.5>
+        <li>1.5</li>
+        <li IfModActive="OskarPotocki.VanillaFactionsExpanded.Core">1.5/VEF</li>
+    </v1.5>
+</loadFolders>
