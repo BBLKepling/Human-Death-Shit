@@ -57,6 +57,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CompRottable_Patch.cs" />
     <Compile Include="DeathShit_Settings.cs" />
     <Compile Include="HarmonyInit.cs" />
     <Compile Include="InternalDefOf.cs" />

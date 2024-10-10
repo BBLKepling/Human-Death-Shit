@@ -12,6 +12,7 @@ namespace HumanDeathShit
         [HarmonyPostfix]
         public static void Postfix(Corpse corpse)
         {
+            if (!DeathShit_Settings.deathShit) return;
             RaceProperties raceProps = corpse?.InnerPawn?.RaceProps;
             if (raceProps == null ||
                 (!DeathShit_Settings.deathShitHuman && raceProps.Humanlike) ||

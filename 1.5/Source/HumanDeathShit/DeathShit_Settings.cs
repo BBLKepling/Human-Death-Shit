@@ -5,6 +5,9 @@ namespace HumanDeathShit
 {
     public class DeathShit_Settings : ModSettings
     {
+        public static bool deathShit = true;
+        public static bool corpseShit = true;
+
         public static bool deathShitSND = true;
         public static bool deathShitSpray = true;
         public static bool deathShitHuman = true;
@@ -14,6 +17,9 @@ namespace HumanDeathShit
         public static bool deathShitMechanoid = false;
         public override void ExposeData()
         {
+            Scribe_Values.Look(ref deathShit, "deathShit", true);
+            Scribe_Values.Look(ref corpseShit, "corpseShit", true);
+
             Scribe_Values.Look(ref deathShitSND, "deathShitSND", true);
             Scribe_Values.Look(ref deathShitSpray, "deathShitSpray", true);
             Scribe_Values.Look(ref deathShitHuman, "deathShitHuman", true);
@@ -34,6 +40,9 @@ namespace HumanDeathShit
         {
             Listing_Standard listingStandard = new Listing_Standard();
             listingStandard.Begin(inRect);
+            listingStandard.CheckboxLabeled("BBLK_deathShit_Label".Translate(), ref DeathShit_Settings.deathShit, "BBLK_deathShit_ToolTip".Translate());
+            listingStandard.CheckboxLabeled("BBLK_corpseShit_Label".Translate(), ref DeathShit_Settings.corpseShit, "BBLK_corpseShit_ToolTip".Translate());
+
             listingStandard.CheckboxLabeled("BBLK_deathShitSND_Label".Translate(), ref DeathShit_Settings.deathShitSND, "BBLK_deathShitSND_ToolTip".Translate());
             listingStandard.CheckboxLabeled("BBLK_deathShitSpray_Label".Translate(), ref DeathShit_Settings.deathShitSpray, "BBLK_deathShitSpray_ToolTip".Translate());
             listingStandard.CheckboxLabeled("BBLK_deathShitHuman_Label".Translate(), ref DeathShit_Settings.deathShitHuman, "BBLK_deathShitHuman_ToolTip".Translate());
