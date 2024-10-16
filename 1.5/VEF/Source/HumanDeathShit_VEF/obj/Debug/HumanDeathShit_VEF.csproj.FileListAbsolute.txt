@@ -1,4 +1,0 @@
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.5\VEF\Source\HumanDeathShit_VEF\obj\Debug\HumanDeathShit_VEF.csproj.AssemblyReference.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.5\VEF\Source\HumanDeathShit_VEF\obj\Debug\HumanDeathShit_VEF.csproj.CoreCompileInputs.cache
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.5\VEF\Assemblies\HumanDeathShit_VEF.dll
-C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.5\VEF\Source\HumanDeathShit_VEF\obj\Debug\HumanDeathShit_VEF.dll

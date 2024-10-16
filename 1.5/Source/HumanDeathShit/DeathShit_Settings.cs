@@ -6,7 +6,7 @@ namespace HumanDeathShit
     public class DeathShit_Settings : ModSettings
     {
         public static bool deathShit = true;
-        public static bool corpseShit = true;
+        public static bool corpseShit = false;
 
         public static bool deathShitSND = true;
         public static bool deathShitSpray = true;
@@ -18,7 +18,7 @@ namespace HumanDeathShit
         public override void ExposeData()
         {
             Scribe_Values.Look(ref deathShit, "deathShit", true);
-            Scribe_Values.Look(ref corpseShit, "corpseShit", true);
+            Scribe_Values.Look(ref corpseShit, "corpseShit", false);
 
             Scribe_Values.Look(ref deathShitSND, "deathShitSND", true);
             Scribe_Values.Look(ref deathShitSpray, "deathShitSpray", true);
@@ -30,9 +30,9 @@ namespace HumanDeathShit
             base.ExposeData();
         }
     }
-    public class HeyListenMod : Mod
+    public class DeathShitMod : Mod
     {
-        public HeyListenMod(ModContentPack content) : base(content)
+        public DeathShitMod(ModContentPack content) : base(content)
         {
             GetSettings<DeathShit_Settings>();
         }

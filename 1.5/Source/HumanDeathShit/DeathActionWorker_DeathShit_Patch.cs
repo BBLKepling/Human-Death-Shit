@@ -12,9 +12,9 @@ namespace HumanDeathShit
         [HarmonyPostfix]
         public static void Postfix(Corpse corpse)
         {
-            if (!DeathShit_Settings.deathShit) return;
-            RaceProperties raceProps = corpse?.InnerPawn?.RaceProps;
-            if (raceProps == null ||
+            if (!DeathShit_Settings.deathShit ||
+                corpse.Map == null ||
+                !(corpse?.InnerPawn?.RaceProps is RaceProperties raceProps) ||
                 (!DeathShit_Settings.deathShitHuman && raceProps.Humanlike) ||
                 (!DeathShit_Settings.deathShitAnimal && raceProps.Animal) ||
                 (!DeathShit_Settings.deathShitDryad && raceProps.Dryad) ||
@@ -23,7 +23,7 @@ namespace HumanDeathShit
             if (DeathShit_Settings.deathShitSND) InternalDefOf.BBLK_Defecate.PlayOneShot(new TargetInfo(corpse.Position, corpse.Map));
             if (DeathShit_Settings.deathShitSpray) InternalDefOf.BBLK_Fecal.Spawn(corpse, corpse.Map);
             corpse.Map.GetComponent<MapComponent_Hygiene>().SewageGrid.AddAt(corpse.Position, 10f);
-            FilthMaker.TryMakeFilth(corpse.Position, corpse.Map, DubDef.FilthFaeces);
+            FilthMaker.TryMakeFilth(corpse.Position, corpse.Map, DubDef.FilthFaeces, corpse.InnerPawn.LabelIndefinite());
         }
     }
 }
