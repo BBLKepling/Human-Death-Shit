@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <BBLK_DeathShitSettings>Human Death Shit</BBLK_DeathShitSettings>
+  
+  
+  <BBLK_deathShit_Label>Death Shit?</BBLK_deathShit_Label>
+  <BBLK_deathShit_ToolTip>Pawns shit when they die.</BBLK_deathShit_ToolTip>
+
+  <BBLK_corpseShit_Label>Corpse Rot Shit?</BBLK_corpseShit_Label>
+  <BBLK_corpseShit_ToolTip>Corpses shit when they turn rotten.</BBLK_corpseShit_ToolTip>
+
+
+  <BBLK_deathShitSND_Label>Shit Sound?</BBLK_deathShitSND_Label>
+  <BBLK_deathShitSND_ToolTip>Plays a sound when a pawn dies and shits themselves.</BBLK_deathShitSND_ToolTip>
+
+  <BBLK_deathShitSpray_Label>Shit Spray?</BBLK_deathShitSpray_Label>
+  <BBLK_deathShitSpray_ToolTip>Throws shit when a pawn dies and shits themselves. Purely visual, no gameplay effects</BBLK_deathShitSpray_ToolTip>
+
+  <BBLK_deathShitHuman_Label>Include Humans?</BBLK_deathShitHuman_Label>
+  <BBLK_deathShitHuman_ToolTip>Humans will death shit.</BBLK_deathShitHuman_ToolTip>
+
+  <BBLK_deathShitAnimal_Label>Include Animals?</BBLK_deathShitAnimal_Label>
+  <BBLK_deathShitAnimal_ToolTip>Animals will death shit.</BBLK_deathShitAnimal_ToolTip>
+
+  <BBLK_deathShitDryad_Label>Include Dryads?(Animals needs to be on)</BBLK_deathShitDryad_Label>
+  <BBLK_deathShitDryad_ToolTip>Dryads will death shit.</BBLK_deathShitDryad_ToolTip>
+
+  <BBLK_deathShitInsect_Label>Include Insects?(Animals needs to be on)</BBLK_deathShitInsect_Label>
+  <BBLK_deathShitInsect_ToolTip>Insects will death shit.</BBLK_deathShitInsect_ToolTip>
+
+  <BBLK_deathShitMechanoid_Label>Include Mechanoids?</BBLK_deathShitMechanoid_Label>
+  <BBLK_deathShitMechanoid_ToolTip>Mechanoids will death shit.</BBLK_deathShitMechanoid_ToolTip>
+
+</LanguageData>
