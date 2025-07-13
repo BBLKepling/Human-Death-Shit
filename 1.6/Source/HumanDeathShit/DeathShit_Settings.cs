@@ -7,6 +7,8 @@ namespace HumanDeathShit
     {
         public static bool deathShit = true;
         public static bool corpseShit = false;
+        public static bool methaneExplode = false;
+        public static float methaneExplodeRad = 2.9f;
 
         public static bool deathShitSND = true;
         public static bool deathShitSpray = true;
@@ -19,6 +21,8 @@ namespace HumanDeathShit
         {
             Scribe_Values.Look(ref deathShit, "deathShit", true);
             Scribe_Values.Look(ref corpseShit, "corpseShit", false);
+            Scribe_Values.Look(ref methaneExplode, "methaneExplode", false);
+            Scribe_Values.Look(ref methaneExplodeRad, "methaneExplodeRad", 2.9f);
 
             Scribe_Values.Look(ref deathShitSND, "deathShitSND", true);
             Scribe_Values.Look(ref deathShitSpray, "deathShitSpray", true);
@@ -42,6 +46,8 @@ namespace HumanDeathShit
             listingStandard.Begin(inRect);
             listingStandard.CheckboxLabeled("BBLK_deathShit_Label".Translate(), ref DeathShit_Settings.deathShit, "BBLK_deathShit_ToolTip".Translate());
             listingStandard.CheckboxLabeled("BBLK_corpseShit_Label".Translate(), ref DeathShit_Settings.corpseShit, "BBLK_corpseShit_ToolTip".Translate());
+            listingStandard.CheckboxLabeled("BBLK_methaneExplode_Label".Translate(), ref DeathShit_Settings.methaneExplode, "BBLK_methaneExplode_ToolTip".Translate());
+            DeathShit_Settings.methaneExplodeRad = Mathf.RoundToInt(listingStandard.SliderLabeled("BBLK_methaneExplode_LabelRadius".Translate() + " " + DeathShit_Settings.methaneExplodeRad, 10f * DeathShit_Settings.methaneExplodeRad, 5f, 100f, tooltip: "BBLK_methaneExplode_Radius_Tooltip".Translate())) / 10f;
 
             listingStandard.CheckboxLabeled("BBLK_deathShitSND_Label".Translate(), ref DeathShit_Settings.deathShitSND, "BBLK_deathShitSND_ToolTip".Translate());
             listingStandard.CheckboxLabeled("BBLK_deathShitSpray_Label".Translate(), ref DeathShit_Settings.deathShitSpray, "BBLK_deathShitSpray_ToolTip".Translate());

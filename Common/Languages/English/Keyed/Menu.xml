@@ -10,6 +10,12 @@
   <BBLK_corpseShit_Label>Corpse Rot Shit?</BBLK_corpseShit_Label>
   <BBLK_corpseShit_ToolTip>Corpses shit when they turn rotten.</BBLK_corpseShit_ToolTip>
 
+  <BBLK_methaneExplode_Label>Corpse Rot Methane Explosion?</BBLK_methaneExplode_Label>
+  <BBLK_methaneExplode_ToolTip>Methane Explosion when turning rotten.</BBLK_methaneExplode_ToolTip>
+
+  <BBLK_methaneExplode_LabelRadius>Corpse Rot Methane Explosion Radius?</BBLK_methaneExplode_LabelRadius>
+  <BBLK_methaneExplode_Radius_Tooltip>Methane Explosion Radius.</BBLK_methaneExplode_Radius_Tooltip>
+
 
   <BBLK_deathShitSND_Label>Shit Sound?</BBLK_deathShitSND_Label>
   <BBLK_deathShitSND_ToolTip>Plays a sound when a pawn dies and shits themselves.</BBLK_deathShitSND_ToolTip>
