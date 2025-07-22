@@ -22,7 +22,7 @@ namespace HumanDeathShit
                 (!DeathShit_Settings.deathShitDryad && raceProps.Dryad) ||
                 (!DeathShit_Settings.deathShitInsect && raceProps.Insect) ||
                 (!DeathShit_Settings.deathShitMechanoid && raceProps.IsMechanoid)) return;
-            if (DeathShit_Settings.methaneExplode) GenExplosion.DoExplosion(corpse.Position, corpse.Map, DeathShit_Settings.methaneExplodeRad, DamageDefOf.Bomb, corpse);
+            if (DeathShit_Settings.methaneExplode) GenExplosion.DoExplosion(corpse.Position, corpse.Map, DeathShit_Settings.methaneExplodeRad, DeathShit_Settings.methaneExplodeFire ? DamageDefOf.Flame : DamageDefOf.Bomb, corpse);
             if (DeathShit_Settings.deathShitSND) InternalDefOf.BBLK_Defecate.PlayOneShot(new TargetInfo(corpse.Position, corpse.Map));
             if (DeathShit_Settings.deathShitSpray) InternalDefOf.BBLK_Fecal.Spawn(corpse, corpse.Map);
             corpse.Map.GetComponent<MapComponent_Hygiene>().SewageGrid.AddAt(corpse.Position, 10f);
