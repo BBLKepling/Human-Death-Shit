@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AZxV3lVIsas=",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\HumanDeathShit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Billy Gates\\.nuget\\packages\\lib.harmony\\3.0.0-rc.3\\lib.harmony.3.0.0-rc.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Assemblies\Debug\HumanDeathShit.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Assemblies\Debug\HumanDeathShit.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\HumanDeathShit.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\HumanDeathShit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\HumanDeathShit.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\HumanDeathShit.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\HumanDeathShit.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\HumanDeathShit.sourcelink.json
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\HumanDeathShit.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\refint\HumanDeathShit.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\HumanDeathShit.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\ref\HumanDeathShit.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Human-Death-Shit\1.7\Source\HumanDeathShit\obj\Debug\HumanDea.E2A94329.Up2Date

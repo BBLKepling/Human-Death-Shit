@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5E83E-9350-4AC7-B0BD-F9242B7AEB93}|HumanDeathShit.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\human-death-shit\\1.7\\source\\humandeathshit\\harmonyinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A5E83E-9350-4AC7-B0BD-F9242B7AEB93}|HumanDeathShit.csproj|solutionrelative:harmonyinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5E83E-9350-4AC7-B0BD-F9242B7AEB93}|HumanDeathShit.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\human-death-shit\\1.7\\source\\humandeathshit\\deathshit_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A5E83E-9350-4AC7-B0BD-F9242B7AEB93}|HumanDeathShit.csproj|solutionrelative:deathshit_settings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5E83E-9350-4AC7-B0BD-F9242B7AEB93}|HumanDeathShit.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\human-death-shit\\1.7\\source\\humandeathshit\\comprottable_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A5E83E-9350-4AC7-B0BD-F9242B7AEB93}|HumanDeathShit.csproj|solutionrelative:comprottable_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5E83E-9350-4AC7-B0BD-F9242B7AEB93}|HumanDeathShit.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\human-death-shit\\1.7\\source\\humandeathshit\\deathactionworker_deathshit_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A5E83E-9350-4AC7-B0BD-F9242B7AEB93}|HumanDeathShit.csproj|solutionrelative:deathactionworker_deathshit_patch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42A5E83E-9350-4AC7-B0BD-F9242B7AEB93}|HumanDeathShit.csproj|c:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\human-death-shit\\1.7\\source\\humandeathshit\\internaldefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42A5E83E-9350-4AC7-B0BD-F9242B7AEB93}|HumanDeathShit.csproj|solutionrelative:internaldefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CompRottable_Patch.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\CompRottable_Patch.cs",
+              "RelativeDocumentMoniker": "CompRottable_Patch.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\CompRottable_Patch.cs",
+              "RelativeToolTip": "CompRottable_Patch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:50:23.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeathActionWorker_DeathShit_Patch.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\DeathActionWorker_DeathShit_Patch.cs",
+              "RelativeDocumentMoniker": "DeathActionWorker_DeathShit_Patch.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\DeathActionWorker_DeathShit_Patch.cs",
+              "RelativeToolTip": "DeathActionWorker_DeathShit_Patch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:50:06.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeathShit_Settings.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\DeathShit_Settings.cs",
+              "RelativeDocumentMoniker": "DeathShit_Settings.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\DeathShit_Settings.cs",
+              "RelativeToolTip": "DeathShit_Settings.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:49:40.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HarmonyInit.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\HarmonyInit.cs",
+              "RelativeDocumentMoniker": "HarmonyInit.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\HarmonyInit.cs",
+              "RelativeToolTip": "HarmonyInit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:49:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InternalDefOf.cs",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\InternalDefOf.cs",
+              "RelativeDocumentMoniker": "InternalDefOf.cs",
+              "ToolTip": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Human-Death-Shit\\1.7\\Source\\HumanDeathShit\\InternalDefOf.cs",
+              "RelativeToolTip": "InternalDefOf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-16T04:44:15.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
